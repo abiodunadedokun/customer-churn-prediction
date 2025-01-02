@@ -1,9 +1,9 @@
-# Customer churn prediction
+# Customer Churn Prediction
 
 ---
 
 #### Project Overview
-This project aims to analyze and predict customer churn using machine learning techniques. By leveraging a telecommunication customer dataset, the goal is to identify patterns and factors contributing to churn and provide actionable insights to improve customer retention strategies.
+This project aims to analyze and predict customer churn using Random Forest Classifier. By leveraging a telecommunication customer dataset, the goal is to identify patterns and factors contributing to churn and provide actionable insights to improve customer retention strategies. The Random Forest Classifier is a robust ensemble learning algorithm that constructs multiple decision trees to improve prediction accuracy and minimize overfitting. Its ability to handle class imbalance, capture non-linear relationships, and provide feature importance insights makes it ideal for predicting customer churn.
 
 ---
 
