@@ -80,8 +80,20 @@ The project is divided into the following key sections:
 
 ---
 
-#### Future Enhancements
-- Implement additional models (e.g., Gradient Boosting, XGBoost) to compare performance.
-- Hyperparameter tuning for the Random Forest model.
-- Develop a dashboard for real-time churn predictions and insights.
+### Recommendations Based on Business Insights
+
+1. **Insight:** Senior customers are more likely to churn.  
+   - Recommendation: Develop senior-specific retention strategies, such as offering simplified plans, personalized communication, or exclusive discounts tailored to their needs.
+
+2. **Insight:** Customers with higher monthly charges exhibit increased churn rates.  
+   - Recommendation: Introduce loyalty programs, bundle discounts, or promotional offers to reduce the perceived burden of monthly charges and enhance value perception.
+
+3. **Insight:** Customers using "Electronic Check" as a payment method have the highest churn rates.  
+   - Recommendation: Provide incentives to switch to automated payment methods like "Credit Card (Automatic)" or "Bank Transfer" to ensure payment consistency and reduce churn.
+
+4. **Insight:** Short-term or month-to-month contract customers are more prone to churn.  
+   - Recommendation: Encourage longer-term contracts by offering incentives such as reduced rates, additional benefits, or exclusive perks for annual plans.
+
+5. **Business Insight:** Customers using "Fiber Optic" internet service are more likely to churn.  
+   - Recommendation: Improve service reliability and performance for fibre optic users. Launch customer satisfaction surveys to identify pain points and implement enhancements.
 
