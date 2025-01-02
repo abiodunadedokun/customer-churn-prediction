@@ -45,13 +45,13 @@ The project is divided into the following key sections:
    - Visualizations provide insights into customer distribution and churn patterns.
    - Key charts:
      - Gender Distribution
-       <img width="610" alt="gender dist" src="https://github.com/user-attachments/assets/84485cf5-035c-4453-9cea-d6042ba777ea" />
+       <img width="950" alt="gender dist" src="https://github.com/user-attachments/assets/84485cf5-035c-4453-9cea-d6042ba777ea" />
 
      - Churn Rates by Gender
-       <img width="752" alt="churn by gend" src="https://github.com/user-attachments/assets/1fa029bb-637b-4ea8-bfdf-ecee75c62883" />
+       <img width="950" alt="churn by gend" src="https://github.com/user-attachments/assets/1fa029bb-637b-4ea8-bfdf-ecee75c62883" />
 
      - Churn by Internet Service Type
-       <img width="567" alt="churn by servi" src="https://github.com/user-attachments/assets/eaf2b521-1a6c-48e8-8b32-b310ae92d20a" />
+       <img width="950" alt="churn by servi" src="https://github.com/user-attachments/assets/eaf2b521-1a6c-48e8-8b32-b310ae92d20a" />
 
      - Monthly Charges by Churn Status
      - <img width="599" alt="monthly" src="https://github.com/user-attachments/assets/4fe64457-9bd1-4806-bcbe-0171fc519127" />
