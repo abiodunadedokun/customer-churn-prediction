@@ -54,16 +54,16 @@ The project is divided into the following key sections:
        <img width="950" alt="churn by servi" src="https://github.com/user-attachments/assets/eaf2b521-1a6c-48e8-8b32-b310ae92d20a" />
 
      - Monthly Charges by Churn Status
-     - <img width="599" alt="monthly" src="https://github.com/user-attachments/assets/4fe64457-9bd1-4806-bcbe-0171fc519127" />
+     - <img width="950" alt="monthly" src="https://github.com/user-attachments/assets/4fe64457-9bd1-4806-bcbe-0171fc519127" />
 
      - Churn by Payment Method
-     - <img width="487" alt="charge by pay" src="https://github.com/user-attachments/assets/715e1bf1-22ac-443a-b104-e217292ba128" />
+     - <img width="950" alt="charge by pay" src="https://github.com/user-attachments/assets/715e1bf1-22ac-443a-b104-e217292ba128" />
 
      - Churn by Contract Type
-     - <img width="623" alt="churn by con" src="https://github.com/user-attachments/assets/f4359211-57e1-46d0-84b5-f0da3c410130" />
+     - <img width="950" alt="churn by con" src="https://github.com/user-attachments/assets/f4359211-57e1-46d0-84b5-f0da3c410130" />
 
      - Churn by Senior Citizen Status
-       <img width="532" alt="churn by citi" src="https://github.com/user-attachments/assets/fa626d31-2de2-4821-8023-e7e99b226e25" />
+       <img width="950" alt="churn by citi" src="https://github.com/user-attachments/assets/fa626d31-2de2-4821-8023-e7e99b226e25" />
 
 
 2. Data Preprocessing:
@@ -75,12 +75,12 @@ The project is divided into the following key sections:
    - Addressing class imbalance using Synthetic Minority Oversampling Technique (SMOTE).
 
 4. Feature Importance Analysis:
-   <img width="622" alt="feat" src="https://github.com/user-attachments/assets/5a3f36b7-a0c2-4cf4-aefc-f617e4e4f504" />
+   <img width="950" alt="feat" src="https://github.com/user-attachments/assets/5a3f36b7-a0c2-4cf4-aefc-f617e4e4f504" />
 
 
 6. Model Training and Evaluation:
 
-   <img width="431" alt="res" src="https://github.com/user-attachments/assets/d5dc7152-735e-481e-b0f1-2031eeff1822" />
+   <img width="950" alt="res" src="https://github.com/user-attachments/assets/d5dc7152-735e-481e-b0f1-2031eeff1822" />
 
    - Model: Random Forest Classifier.
    - Performance Metrics:
