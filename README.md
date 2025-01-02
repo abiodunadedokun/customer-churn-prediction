@@ -49,6 +49,7 @@ The project is divided into the following key sections:
      - Monthly Charges by Churn Status
      - Churn by Payment Method
      - Churn by Contract Type
+     - Churn by Senior Citizen Status
 
 2. Data Preprocessing:
    - Encoding categorical variables using Label Encoding.
