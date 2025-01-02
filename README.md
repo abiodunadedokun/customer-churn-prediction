@@ -94,6 +94,6 @@ The project is divided into the following key sections:
 4. **Insight:** Short-term or month-to-month contract customers are more prone to churn.  
    - Recommendation: Encourage longer-term contracts by offering incentives such as reduced rates, additional benefits, or exclusive perks for annual plans.
 
-5. **Business Insight:** Customers using "Fiber Optic" internet service are more likely to churn.  
+5. **Insight:** Customers using "Fiber Optic" internet service are more likely to churn.  
    - Recommendation: Improve service reliability and performance for fibre optic users. Launch customer satisfaction surveys to identify pain points and implement enhancements.
 
